@@ -1,0 +1,56 @@
+	body{
+    padding: 20px;
+}
+code {
+    background: #EEEEEE;
+    font-family: monospace;
+    padding: 5px;
+}
+/* Temp code for development, remove after finish */ 
+
+*{    font-family: 'Alegreya Sans SC', sans-serif;    }
+.button{
+    display: inline-block;
+    padding: 10px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    cursor: pointer;
+    outline: 0;
+    transition: 0.4s ease-in-out;
+    box-shadow: 0px 2px 10px -6px #000;
+    color: #fff;
+    margin: 5px;
+    border: 0;
+}
+.green{    background: #2ecc71;    }
+.green:hover{    background: #27ae60;    }
+.aqcua{    background: #1abc9c;    }
+.aqcua:hover{    background: #16a085;    }
+.blue{    background: #3498db;    }
+.blue:hover{    background: #2980b9;}
+.purple{    background: #9b59b6;    }
+.purple:hover{background: #8e44ad;    }
+.dblue{    background: #34495e;    }
+.dblue:hover{    background: #2c3e50;    }
+.yellow{    background: #f1c40f;    }
+.yellow:hover{    background: #f39c12;    }
+.orange{    background: #e67e22;    }
+.orange:hover{    background: #d35400;    }
+.red{    background: #e74c3c;    }
+.red:hover{    background: #c0392b;    }
+.silver{    background:#ecf0f1;    color: #4B4B4B;    }
+.silver:hover{    background: #bdc3c7;    color: #444444;    }
+.gray{    background: #95a5a6;    }
+.gray:hover{    background: #7f8c8d;    }
+
+
+/*
+Legal notes:
+
+
+Fonts : Alegreya Sans - Google Fonts: http://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,700
+
+Colors from http://flatuicolors.com/ themes ;
+
+*/
