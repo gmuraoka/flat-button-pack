@@ -1,13 +1,4 @@
-	body{
-    padding: 20px;
-}
-code {
-    background: #EEEEEE;
-    font-family: monospace;
-    padding: 5px;
-}
-/* Temp code for development, remove after finish */ 
-
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,700);
 *{    font-family: 'Alegreya Sans SC', sans-serif;    }
 .button{
     display: inline-block;
