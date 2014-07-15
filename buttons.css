@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,700);
 *{    font-family: 'Alegreya Sans SC', sans-serif;    }
-.button{
+.btn{
     display: inline-block;
     padding: 10px;
     border-radius: 2px;
@@ -10,10 +10,14 @@
     outline: 0;
     transition: 0.4s ease-in-out;
     box-shadow: 0px 2px 10px -6px #000;
+    -webkit-box-shadow: 0px 2px 10px -6px #000;
+    -moz-box-shadow: 0px 2px 10px -6px #000;
     color: #fff;
     margin: 5px;
     border: 0;
 }
+.btn-med{ padding: 15px;}
+.btn-big{   padding: 20px;}
 .green{    background: #2ecc71;    }
 .green:hover{    background: #27ae60;    }
 .aqcua{    background: #1abc9c;    }
